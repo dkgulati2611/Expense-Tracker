@@ -1,4 +1,4 @@
-# MERN Stack Blog Application
+# MERN Stack Expense Tracker Application
 This is a complete MERN (MongoDB, Express.js, React.js, Node.js) stack blog application.
 
 ## Features
@@ -8,7 +8,7 @@ This is a complete MERN (MongoDB, Express.js, React.js, Node.js) stack blog appl
   
 ## Link
 
-Access the deployed application at: [https://blog-app-bpnm.onrender.com](https://expense-tracker-u5av.onrender.com)/)
+Access the deployed application at: [https://expense-tracker-u5av.onrender.com](https://expense-tracker-u5av.onrender.com)/)
 
 Feel free to explore the features and functionalities of the MERN stack blog application!
 
